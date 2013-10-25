@@ -1,1 +1,12 @@
 Cluster Analysis with R
+
+%--------------------------------------------------------------------%
+
+Cluster Analysis is a statistical technique used to group cases (individuals or objects) into homogeneous sub-groups
+based on responses to variabkes,
+
+\begin{itemize}
+\item Two-step
+\item k-mean
+\item Hierarchical
+\end{itemize}
