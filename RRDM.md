@@ -11,13 +11,13 @@ Section 14 Support Vector Machines	2
  
 ### Section 4 Supervised Classification
 Discriminanat Analysis
-4.1.1 Classical Multivariate Statistics
-4.1.2 Data Mining
+- 4.1.1 Classical Multivariate Statistics
+- 4.1.2 Data Mining
 Bivariate Plots
 
-4.2.4 Taking Stock
-4.3 Numerical Methods
-4.3.1 Linear Discriminant Analysis
+- 4.2.4 Taking Stock
+- 4.3 Numerical Methods
+- 4.3.1 Linear Discriminant Analysis
 LDA is used to find the linear combination of variables that best separates classes.
 
 <pre><code>
@@ -28,7 +28,7 @@ gd <-ggob(cbind(d.olive,pregion))[1]
 glyph_colour(gd) <- c(crep(6,323),rep(5,98),rep(1,151))
 </code></pre>
 
-10.3 Measures
+#### 10.3 Measures
 
 Two Primary measures used in Association Analysis are
 1) Support
