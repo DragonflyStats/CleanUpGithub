@@ -1,4 +1,4 @@
-DataMiningWithR
+Learning How to Use GIT
 ===============
 
-Data Mining with R
+Git Version Control
